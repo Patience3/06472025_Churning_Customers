@@ -23,7 +23,7 @@ The Churn prediction is a web application designed for telecom companies to iden
 ## Getting Started
 
 
-### Software Requirements
+#### Software Requirements
 
 
   Python for code construction.
@@ -31,14 +31,14 @@ The Churn prediction is a web application designed for telecom companies to iden
     No specific version control for this project.
 
 
-### Hardware Requirements
+#### Hardware Requirements
 
 
    No specific hardware requirements.
    The data is not large, and the model can be trained in a maximum of one hour.
 
 
-### Prerequisites
+#### Prerequisites
 
 
 Install the following libraries:
@@ -59,7 +59,7 @@ pip install streamlit tensorflow keras pandas seaborn matplotlib scikit  learn p
 ```
 
 
-### Installation Instructions
+#### Installation Instructions
 
 
    Install the required libraries using the provided command.
@@ -80,8 +80,7 @@ This project is not OS  dependent and can run on every operating system.
 
 ### Testing
 
-
-   Deploy the model using Streamlit.
+   DeployED the model using Streamlit.
    Input customer details on the webpage to determine the likelihood of churning.
 
 
@@ -95,11 +94,10 @@ This project is not OS  dependent and can run on every operating system.
 ### License
 
 
-   This project is an academic work under Ashesi University.
+   This project is an academic work under Intro to AI Ashesi University.
 
 
 ### Contact
-
 
    Name: patience.sombang@ashesi.edu.gh
    Project Link: [Link to your project]
@@ -111,8 +109,3 @@ This project is not OS  dependent and can run on every operating system.
    Read on best README.md practices.
    Used active support from classmates.
 
-
-      
-
-
-*Include any badges or additional information as needed.
