@@ -1,7 +1,7 @@
 # 06472025_Churning_Customers
 
 
-
+Find attached the link to the video recording: https://aucampus-my.sharepoint.com/:v:/r/personal/patience_sombang_ashesi_edu_gh/Documents/Recording_Churn_Customer.mov?csf=1&web=1&e=CiEjEd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 # Churn Prediction App
 
